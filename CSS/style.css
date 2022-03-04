@@ -1,0 +1,45 @@
+/* Pirmeiro arquivo css*/
+
+p{	
+	color: black;		/* Cor da letra*/
+	font-size: 20px;	/* Tamanho da letra*/
+	font-family: Arial;	/* Fonte da letra*/	
+}
+body{
+	background-color: gray;	/* Cor de fundo*/
+}
+*{ /* * significa toda a pagina */
+	margin: 0;
+	padding: 0;
+}
+header{
+	background-color: green;
+	height: 100px;
+}
+div{
+	color: red;
+	background-color: black;
+	font-size: 20px;
+}
+.div_esquerda{
+	color: red;
+	background-color: LightGray;
+	min-height: 400px;
+	width: 50%;
+	float: hight;
+	
+}
+.div_direita{
+	color: black;
+	background-color: blue;
+	min-height: 400px;
+	width: 40%;
+	float: hight;
+}
+footer{
+	clear: both;
+	background-color: aqua;
+	height:80px;
+}
+
+*/
