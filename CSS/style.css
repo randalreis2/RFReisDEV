@@ -25,16 +25,15 @@ div{
 	color: red;
 	background-color: LightGray;
 	min-height: 400px;
-	width: 50%;
-	float: hight;
-	
+	width: 60%;
+	float: left;
 }
 .div_direita{
 	color: black;
 	background-color: blue;
 	min-height: 400px;
 	width: 40%;
-	float: hight;
+	float: right; 
 }
 footer{
 	clear: both;
