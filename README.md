@@ -1,8 +1,8 @@
 # RFReisDEV
 <b> Site </b>
 
-Aprendendo em casa
+<b> Aprendendo em casa
 
-Aprendendo HTML
+<b> Aprendendo HTML
 Agora CSS
 proximo PHP
