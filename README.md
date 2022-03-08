@@ -1,11 +1,11 @@
 # RFReisDEV
 <b> Site </b>
 
-<b> Aprendendo em casa</b>
+<b> Aprendendo em casa </b>
 
-<b> Aprendendo HTML</b>
+<b> HTML básico ok </b>
 
-<b> Agora CSS</b>
+<b> Aprendendo CSS </b>
 
-<b> proximo PHP</b>
+<b> proximo PHP </b>
 
